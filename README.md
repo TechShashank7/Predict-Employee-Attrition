@@ -64,4 +64,5 @@ Target column:
 ## 📷 Visual Outputs
 
 ### Confusion Matrix  
-![Confusion Matrix](path/to/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/def52a68-ac47-450c-a93a-fbb48cc035f0)
+
